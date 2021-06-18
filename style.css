@@ -1,0 +1,42 @@
+body {
+    background-color: #dee6ed;
+justify-content: center; 
+align-items: center;
+height:100%;
+background-repeat: no-repeat;
+margin:0;
+font-family:Arial, Helvetica, sans-serif;
+background-image:url( earth.jpg);
+background-position: center;
+background-size:cover;
+
+}
+
+
+.headerTitle{
+    color:white;
+}
+
+}
+
+button{
+    margin: 0.5em;
+    height:2.5em;
+    border:none;
+    border-radius:50%;
+    width: 2.5em;
+    outline: none;
+    background:#7c7c7c;
+    color:white;
+    cursor:pointer;
+    transition:0.2s ease-in-out;
+    width: calc(100%-80px);
+    position: relative;
+}
+
+.card-body{
+
+background-position-x: left;
+
+
+}
